@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 484" width="680" height="484">
+<style>
+.line { opacity: 0; animation: show .4s ease-out forwards; }
+@keyframes show { from { opacity: 0; transform: translateX(-8px); } to { opacity: 1; transform: none; } }
+</style>
+<rect x="1" y="1" width="678" height="482" rx="10" fill="#0d1117" stroke="#30363d"/>
+<rect x="1" y="1" width="678" height="40" rx="10" fill="#161b22"/>
+<rect x="1" y="30" width="678" height="11" fill="#161b22"/>
+<circle cx="24" cy="21" r="6" fill="#f85149"/><circle cx="46" cy="21" r="6" fill="#d29922"/><circle cx="68" cy="21" r="6" fill="#39d353"/>
+<text x="340" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#8b949e">atharva@github: ~</text>
+<g font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="17">
+<text class="line" y="84" style="animation-delay:0.8s"><tspan x="28"></tspan><tspan x="28" fill="#39d353">atharva@github</tspan></text>
+<text class="line" y="111" style="animation-delay:0.92s"><tspan x="28"></tspan><tspan x="28" fill="#30363d">--------------</tspan></text>
+<text class="line" y="138" style="animation-delay:1.04s"><tspan x="28"><tspan fill="#58a6ff">Role</tspan></tspan><tspan x="108" fill="#c9d1d9">Computer Engineering student, VIT Pune</tspan></text>
+<text class="line" y="165" style="animation-delay:1.16s"><tspan x="28"><tspan fill="#58a6ff">Now</tspan></tspan><tspan x="108" fill="#c9d1d9">RAG pipelines and LangGraph agents on local LLMs</tspan></text>
+<text class="line" y="192" style="animation-delay:1.28s"><tspan x="28"><tspan fill="#58a6ff">Stack</tspan></tspan><tspan x="108" fill="#c9d1d9">Python, Java, JavaScript</tspan></text>
+<text class="line" y="219" style="animation-delay:1.4s"><tspan x="28"><tspan fill="#58a6ff">ML</tspan></tspan><tspan x="108" fill="#c9d1d9">LangChain, scikit-learn, LLMs</tspan></text>
+<text class="line" y="246" style="animation-delay:1.52s"><tspan x="28"><tspan fill="#58a6ff">Web</tspan></tspan><tspan x="108" fill="#c9d1d9">Spring Boot, React, Express, Flask, MySQL</tspan></text>
+<text class="line" y="300" style="animation-delay:1.76s"><tspan x="28"><tspan fill="#58a6ff">Built</tspan></tspan><tspan x="108" fill="#c9d1d9">EvoMind: bug-risk ranking for Git repos</tspan></text>
+<text class="line" y="327" style="animation-delay:1.88s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">LiveCricket: real-time scoring over SSE</tspan></text>
+<text class="line" y="354" style="animation-delay:2.0s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">Doodhwala: milk delivery and billing</tspan></text>
+<text class="line" y="381" style="animation-delay:2.12s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">UML Class Diagram Generator</tspan></text>
+<text class="line" y="435" style="animation-delay:2.36s"><tspan x="28"><tspan fill="#58a6ff">Reach</tspan></tspan><tspan x="108" fill="#c9d1d9">atharva101106@gmail.com</tspan></text>
+</g>
+<g class="line" style="animation-delay:2.6s"><rect x="28" y="454" width="24" height="14" rx="3" fill="#f85149"/><rect x="58" y="454" width="24" height="14" rx="3" fill="#d29922"/><rect x="88" y="454" width="24" height="14" rx="3" fill="#39d353"/><rect x="118" y="454" width="24" height="14" rx="3" fill="#58a6ff"/><rect x="148" y="454" width="24" height="14" rx="3" fill="#bc8cff"/><rect x="178" y="454" width="24" height="14" rx="3" fill="#c9d1d9"/></g>
+</svg>
