@@ -10,17 +10,18 @@
 <text x="340" y="26" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="14" fill="#8b949e">atharva@github: ~</text>
 <g font-family="ui-monospace, SFMono-Regular, Consolas, Menlo, monospace" font-size="17">
 <text class="line" y="84" style="animation-delay:0.8s"><tspan x="28"></tspan><tspan x="28" fill="#39d353">atharva@github</tspan></text>
-<text class="line" y="111" style="animation-delay:0.92s"><tspan x="28"></tspan><tspan x="28" fill="#30363d">--------------</tspan></text>
-<text class="line" y="138" style="animation-delay:1.04s"><tspan x="28"><tspan fill="#58a6ff">Role</tspan></tspan><tspan x="108" fill="#c9d1d9">Computer Engineering student, VIT Pune</tspan></text>
-<text class="line" y="165" style="animation-delay:1.16s"><tspan x="28"><tspan fill="#58a6ff">Now</tspan></tspan><tspan x="108" fill="#c9d1d9">RAG pipelines and LangGraph agents on local LLMs</tspan></text>
-<text class="line" y="192" style="animation-delay:1.28s"><tspan x="28"><tspan fill="#58a6ff">Stack</tspan></tspan><tspan x="108" fill="#c9d1d9">Python, Java, JavaScript</tspan></text>
-<text class="line" y="219" style="animation-delay:1.4s"><tspan x="28"><tspan fill="#58a6ff">ML</tspan></tspan><tspan x="108" fill="#c9d1d9">LangChain, scikit-learn, LLMs</tspan></text>
-<text class="line" y="246" style="animation-delay:1.52s"><tspan x="28"><tspan fill="#58a6ff">Web</tspan></tspan><tspan x="108" fill="#c9d1d9">Spring Boot, React, Express, Flask, MySQL</tspan></text>
-<text class="line" y="300" style="animation-delay:1.76s"><tspan x="28"><tspan fill="#58a6ff">Built</tspan></tspan><tspan x="108" fill="#c9d1d9">EvoMind: bug-risk ranking for Git repos</tspan></text>
-<text class="line" y="327" style="animation-delay:1.88s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">LiveCricket: real-time scoring over SSE</tspan></text>
-<text class="line" y="354" style="animation-delay:2.0s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">Doodhwala: milk delivery and billing</tspan></text>
-<text class="line" y="381" style="animation-delay:2.12s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">UML Class Diagram Generator</tspan></text>
-<text class="line" y="435" style="animation-delay:2.36s"><tspan x="28"><tspan fill="#58a6ff">Reach</tspan></tspan><tspan x="108" fill="#c9d1d9">atharva101106@gmail.com</tspan></text>
+<text class="line" y="109" style="animation-delay:0.92s"><tspan x="28"></tspan><tspan x="28" fill="#30363d">--------------</tspan></text>
+<text class="line" y="134" style="animation-delay:1.04s"><tspan x="28"><tspan fill="#58a6ff">Role</tspan></tspan><tspan x="108" fill="#c9d1d9">3rd Year Computer Engineering student, VIT Pune</tspan></text>
+<text class="line" y="159" style="animation-delay:1.16s"><tspan x="28"><tspan fill="#58a6ff">Now</tspan></tspan><tspan x="108" fill="#c9d1d9">RAG pipelines and LangGraph agents on local LLMs</tspan></text>
+<text class="line" y="184" style="animation-delay:1.28s"><tspan x="28"><tspan fill="#58a6ff">Stack</tspan></tspan><tspan x="108" fill="#c9d1d9">Python, Java, JavaScript</tspan></text>
+<text class="line" y="209" style="animation-delay:1.4s"><tspan x="28"><tspan fill="#58a6ff">ML</tspan></tspan><tspan x="108" fill="#c9d1d9">LangChain, LangGraph, Advanced RAG, scikit-learn</tspan></text>
+<text class="line" y="234" style="animation-delay:1.52s"><tspan x="28"><tspan fill="#58a6ff">Web</tspan></tspan><tspan x="108" fill="#c9d1d9">Spring Boot, React, Express, Flask, MySQL</tspan></text>
+<text class="line" y="259" style="animation-delay:1.64s"><tspan x="28"><tspan fill="#58a6ff">Tools</tspan></tspan><tspan x="108" fill="#c9d1d9">PostgreSQL, Docker</tspan></text>
+<text class="line" y="309" style="animation-delay:1.88s"><tspan x="28"><tspan fill="#58a6ff">Built</tspan></tspan><tspan x="108" fill="#c9d1d9">EvoMind: bug-risk ranking for Git repos</tspan></text>
+<text class="line" y="334" style="animation-delay:2.0s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">LiveCricket: real-time scoring over SSE</tspan></text>
+<text class="line" y="359" style="animation-delay:2.12s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">Doodhwala: milk delivery and billing</tspan></text>
+<text class="line" y="384" style="animation-delay:2.24s"><tspan x="28"></tspan><tspan x="108" fill="#c9d1d9">UML Class Diagram Generator</tspan></text>
+<text class="line" y="434" style="animation-delay:2.48s"><tspan x="28"><tspan fill="#58a6ff">Reach</tspan></tspan><tspan x="108" fill="#c9d1d9">atharva101106@gmail.com</tspan></text>
 </g>
-<g class="line" style="animation-delay:2.6s"><rect x="28" y="454" width="24" height="14" rx="3" fill="#f85149"/><rect x="58" y="454" width="24" height="14" rx="3" fill="#d29922"/><rect x="88" y="454" width="24" height="14" rx="3" fill="#39d353"/><rect x="118" y="454" width="24" height="14" rx="3" fill="#58a6ff"/><rect x="148" y="454" width="24" height="14" rx="3" fill="#bc8cff"/><rect x="178" y="454" width="24" height="14" rx="3" fill="#c9d1d9"/></g>
+<g class="line" style="animation-delay:2.6s"><rect x="28" y="451" width="24" height="14" rx="3" fill="#f85149"/><rect x="58" y="451" width="24" height="14" rx="3" fill="#d29922"/><rect x="88" y="451" width="24" height="14" rx="3" fill="#39d353"/><rect x="118" y="451" width="24" height="14" rx="3" fill="#58a6ff"/><rect x="148" y="451" width="24" height="14" rx="3" fill="#bc8cff"/><rect x="178" y="451" width="24" height="14" rx="3" fill="#c9d1d9"/></g>
 </svg>

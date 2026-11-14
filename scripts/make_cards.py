@@ -8,11 +8,12 @@ TEXT, MUTED, GREEN, BLUE = "#c9d1d9", "#8b949e", "#39d353", "#58a6ff"
 INFO = [
     ("", "atharva@github", GREEN),
     ("", "--------------", LINE),
-    ("Role", "Computer Engineering student, VIT Pune", TEXT),
+    ("Role", "3rd Year Computer Engineering student, VIT Pune", TEXT),
     ("Now", "RAG pipelines and LangGraph agents on local LLMs", TEXT),
     ("Stack", "Python, Java, JavaScript", TEXT),
-    ("ML", "LangChain, scikit-learn, LLMs", TEXT),
+    ("ML", "LangChain, LangGraph, Advanced RAG, scikit-learn", TEXT),
     ("Web", "Spring Boot, React, Express, Flask, MySQL", TEXT),
+    ("Tools", "PostgreSQL, Docker", TEXT),
     None,
     ("Built", "EvoMind: bug-risk ranking for Git repos", TEXT),
     ("", "LiveCricket: real-time scoring over SSE", TEXT),
@@ -61,7 +62,7 @@ def info_card() -> str:
                 f'<text class="line" y="{y}" style="animation-delay:{delay}s"><tspan x="28">{label}</tspan>'
                 f'<tspan x="{108 if i > 1 else 28}" fill="{colour}">{value}</tspan></text>'
             )
-        y += 27
+        y += 25
     swatches = "".join(f'<rect x="{28 + i * 30}" y="{y - 8}" width="24" height="14" rx="3" fill="{c}"/>' for i, c in enumerate(SWATCHES))
     return f"""<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 680 484" width="680" height="484">
 <style>
