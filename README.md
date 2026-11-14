@@ -41,16 +41,6 @@
 
 <br>
 
-<h3><code>atharva@github ~ $ ls projects/</code></h3>
-
-<a href="https://github.com/AtharvaDeshmukh1011/live-cricket-score"><b>LiveCricket</b></a> real-time cricket scoring with Spring Boot, React and server-sent events
-<br>
-<a href="https://github.com/AtharvaDeshmukh1011/MILKMAN"><b>Doodhwala</b></a> milk delivery and billing app with React, Express and MySQL
-<br>
-<a href="https://github.com/AtharvaDeshmukh1011/uml-class-diagram-generator"><b>UML Class Diagram Generator</b></a> draw a class diagram, get the Java code
-
-<br><br>
-
 <h3><code>atharva@github ~ $ ./contact.sh</code></h3>
 
 <a href="mailto:atharva101106@gmail.com"><img src="./assets/gmail.svg" height="40" alt="atharva101106@gmail.com" /></a>
