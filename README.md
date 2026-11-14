@@ -9,7 +9,7 @@
 <table>
   <tr>
     <td valign="top"><img src="./assets/portrait.svg" width="370" alt="ASCII portrait of Atharva" /></td>
-    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="Computer Engineering student at VIT Pune. Stack: Python, Java, JavaScript, LangChain, scikit-learn, Spring Boot, React" /></td>
+    <td valign="top"><img src="./assets/info-card.svg" width="490" alt="3rd Year Computer Engineering student at VIT Pune. Stack: Python, Java, JavaScript, LangChain, LangGraph, Advanced RAG, scikit-learn, Spring Boot, React, PostgreSQL" /></td>
   </tr>
 </table>
 
