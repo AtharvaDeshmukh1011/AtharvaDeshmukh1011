@@ -15,6 +15,12 @@
 
 <br>
 
+<h3><code>atharva@github ~ $ ./contributions.sh</code></h3>
+
+<img src="./assets/contributions.svg" width="860" alt="Contribution activity over the last 26 weeks, with a jet that fires at the busiest days" />
+
+<br><br>
+
 <h3><code>atharva@github ~ $ cat featured/evomind.md</code></h3>
 
 <table>
